@@ -182,10 +182,8 @@ content:
   - title: Presentation
     layout: text
     content: | # this will include new lines to allow paragraphs
-    link : https://speakerdeck.com/skdfjwa/yolo-ver-dot-1-nonmun-guhyeon?slide=12
-      yolo ver.1 논문 구현 발표
-      [발표 자료](https://speakerdeck.com/skdfjwa/yolo-ver-dot-1-nonmun-guhyeon?slide=12)
-      
+      [yolo ver.1 논문 구현 발표](https://speakerdeck.com/skdfjwa/yolo-ver-dot-1-nonmun-guhyeon)
+      [AWS VPC 발표](https://speakerdeck.com/skdfjwa/aws-vpc-balpyo)
 
 # Footer
 footer_show_references: true
