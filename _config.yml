@@ -177,20 +177,15 @@ content:
         title: 동덕 여자 대학교
         caption: 2020. 03 - 2024. 08
         quote: >
-        description: | # this will include new lines to allow paragraphs
           컴퓨터학과 본 전공, 정보통계학과 복수 전공했으며 졸업 예정입니다.
 
-  - title: A Little More About Me
+  - title: Presentation
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+    link : https://speakerdeck.com/skdfjwa/yolo-ver-dot-1-nonmun-guhyeon?slide=12
+      yolo ver.1 논문 구현 발표
+      [발표 자료](https://speakerdeck.com/skdfjwa/yolo-ver-dot-1-nonmun-guhyeon?slide=12)
+      
 
 # Footer
 footer_show_references: true
