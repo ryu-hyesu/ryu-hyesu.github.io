@@ -183,7 +183,8 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       포트폴리오
-      - [포트폴리오 바로가기](https://glowing-barber-b5f.notion.site/805675ce181440d5b871edac140b0da5?pvs=4)
+      - [포트폴리오 바로가기](https://glowing-barber-b5f.notion.site/c38a027bbce84433b3b391c9acf4647b?pvs=4)
+      
       발표 자료
       - [yolo ver.1 논문 구현 발표](https://speakerdeck.com/skdfjwa/yolo-ver-dot-1-nonmun-guhyeon)
       - [AWS VPC 발표](https://speakerdeck.com/skdfjwa/aws-vpc-balpyo)
