@@ -169,10 +169,10 @@ content:
         title: 동덕 여자 대학교
         caption: 2020. 03 - 2024. 08 (졸업 예정)
         sub_title: 컴퓨터학과 본 전공 | 정보통계학과 복수 전공
-        # quote: >
-          # Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        quote: >
+          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          
+          ㅊㅊㅇㅇ
 
   - title: A Little More About Me
     layout: text
