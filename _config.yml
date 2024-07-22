@@ -57,7 +57,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: 간호사 일상 및 건강 실태 조사 어플 제작(외주)
+        title: 간호사 일상 및 건강 실태 조사 어플 제작
         # link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: Android Developer
@@ -65,13 +65,32 @@ content:
         quote: >
           중앙대학교 대학원의 연구 프로젝트로, 간호사 일상 및 건강 설문조사 애플리케이션 개발 외주를 받았습니다.
         description: | # this will include new lines to allow paragraphs
-            Android Studio와 Kotlin을 사용하여 서비스 프론트엔드를 개발하고, Firebase를 활용해 14일간 간호사들의 일일 근무 생활과 건강 척도 데이터를 수집하는 시스템을 구축했습니다. 프로젝트 진행 중 클라이언트의 요구사항을 충족시키면서도 앱의 성능 개선이 필요하다는 점을 동료들과의 코드 리뷰를 통해 인식했습니다. 이 문제를 해결하기 위해 코루틴 도입을 제안했고, 관련 서적과 공식 문서를 공부하여 효과적으로 구현했습니다. 그 결과, 앱의 반응 속도를 크게 향상시킬 수 있었습니다. 또한, 개발 프로세스의 효율성 향상에도 관심을 가져 배포 자동화에 대해 연구했습니다. 현직자 강연을 찾아 학습한 후, GitHub Actions를 활용한 자동화 시스템을 구축하여 배포 시간을 대폭 단축시켰습니다. 이러한 경험들을 통해 제 기술적 역량이 향상되었으며, 동시에 지속적인 학습과 팀원과의 소통의 중요성을 깊이 깨달았습니다.
+            Android Studio와 Kotlin을 사용하여 서비스 프론트엔드를 개발하고, Firebase를 활용해 14일간 간호사들의 일일 근무 생활과 건강 척도 데이터를 수집하는 시스템을 구축했습니다.
+            
+            프로젝트 진행 중 클라이언트의 요구사항을 충족시키면서도 앱의 성능 개선이 필요하다는 점을 동료들과의 코드 리뷰를 통해 인식했습니다. 이 문제를 해결하기 위해 코루틴 도입을 제안했고, 관련 서적과 공식 문서를 공부하여 효과적으로 구현했습니다. 그 결과, 앱의 반응 속도를 크게 향상시킬 수 있었습니다. 또한, 개발 프로세스의 효율성 향상에도 관심을 가져 배포 자동화에 대해 공부했습니다. 현직자 강연을 찾아 학습한 후, GitHub Actions를 활용한 자동화 시스템을 구축하여 배포 시간을 대폭 단축시켰습니다.
+            
+            이러한 경험들을 통해 제 기술적 역량이 향상되었으며, 동시에 지속적인 학습과 팀원과의 소통의 중요성을 깊이 깨달았습니다.
+
+      - layout: left
+        title: 멘토르7 스터디카페
+        # link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: 카페 매니저
+        caption: 2021. 02 - 2024. 06 (3 년 6 개월)
+        quote: >
+          가족 운영 스터디카페의 개업 초기부터 매니저로 참여했습니다.
+        description: | # this will include new lines to allow paragraphs
+            각종 민원 처리, 시설 및 비품 구비, 가게 세부 인테리어 참여 등 대처 메뉴얼이 없고, 모든 것을 새롭게 시작해야 했기 때문에 가게 운영 체계를 마련하는 데에 적극적으로 참여하였습니다.
+            
+            하지만 외부에서 소음이 발생하거나 카페 수도관이 터져 바닥이 물 바다가 되는 등 돌발 상황에 대처할 수 있는 매뉴얼이 없었습니다. 처음에는 단순히 민원에 답변하는 것으로 그쳤는데, 사전 공지가 없었다며 관리가 미흡하다는 내용의 부정적인 후기가 몇 개 올라왔습니다. 
+            
+            이 후 상의를 통해  돌발 상황 발생 시 이용자들에게 개별적으로 말씀드리거나 단체 문자를 보내 상황을 신속히 알리고, 이용 시간을 추가하거나 환불 해드리는 등의 보상 조치를 취했습니다. 이후 더 심각한 소음이 며칠 간 지속되었을 때에도 이전과 같은 부정적인 후기는 거의 발생하지 않았습니다. 
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
+        title: IS IT OVER NOW?
         link: github.com/sproogen
         # link_text: Project Website
         additional_links:
@@ -90,15 +109,13 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        title: 동덕 여자 대학교
+        caption: 2020. 03 - 2024. 08 (졸업 예정)
+        sub_title: 컴퓨터학과 본 전공 | 정보통계학과 복수 전공
+        # quote: >
+          # Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          
 
   - title: A Little More About Me
     layout: text
