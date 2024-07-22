@@ -105,7 +105,24 @@ content:
           실시간 공연 정보 및 티켓 가격 모니터링 애플리케이션
         description: | # this will include new lines to allow paragraphs
           실시간 공연 정보와 티켓 가격을 모니터링하는 안드로이드 애플리케이션을 개발했습니다. <mark>Retrofit2</mark>를 활용하여 Ticketmaster Open API와 연동하고 RESTful API 통신을 구현했으며, 데이터 파싱과 커스텀 어댑터 개발을 통해 효율적인 데이터 처리 및 표시 시스템을 구축했습니다. <mark>Google Maps API</mark>를 이용해 공연 위치를 시각화하고 커스텀 InfoWindow를 개발하여 사용자 경험을 향상시켰습니다. <mark>WorkManager</mark>를 활용한 주기적 백그라운드 작업으로 자동화된 티켓 가격 모니터링 시스템을 구현했으며, <mark>Room 데이터베이스</mark>를 이용해 로컬 데이터를 관리하고 사용자 맞춤 기능을 제공했습니다.
-
+    - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Project name
+        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        link_text: Link Text
+        additional_links:
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        quote: >
+          Short overview of the project (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description about the work on/with the project
+          
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
